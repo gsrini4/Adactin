@@ -1,0 +1,7 @@
+com\adactin\helper\ConfigurationReader.class
+com\adactin\helper\PageObjectManager.class
+com\adactin\helper\Hooks.class
+com\adactin\pom\LoginPOMPage.class
+com\adactin\runner\Runner.class
+com\adactin\helper\FileReaderManager.class
+com\adactin\stepdefinition\LoginPageStepDefinition.class
